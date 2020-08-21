@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Please run amplify init before you run the app for the first time. Amplify setup for those unfamiliar can be found here: https://docs.amplify.aws/start/getting-started/installation/q/integration/react#install-and-configure-the-amplify-cli
+
 ## Available Scripts
 
 In the project directory, you can run:
